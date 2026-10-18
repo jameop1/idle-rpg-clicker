@@ -11,4 +11,4 @@ A retro pixel-art incremental clicker RPG. Click to battle dungeon monsters, col
 
 ## Getting Started
 
-Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser or use it on https://jameop1.github.io/idle-rpg-clicker/
